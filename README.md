@@ -1,16 +1,14 @@
 # desafio_busca_cep
 
-A new Flutter project.
+O projeto Busca Cep foi um desafio que o professor propôs na aula de Desenvolvimento Mobile.
 
-## Getting Started
+O app é muito simples, no campo de pesquisa o usuário coloca o cep e clica no botão buscar, então aparece o endereço desejado pelo usuário.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/79880613/194973608-c0cdf2c3-f565-4d51-999f-93b3412f544d.mov
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✔️ Técnicas e tecnologias utilizadas
+- ``Dart``
+- ``Flutter``
+- ``Dio``
